@@ -3,6 +3,10 @@ Introduce Myself✨
 - 😄 안녕하세요. Server Developer를 꿈꾸고 있는 이기종입니다.
 - 🌱 SSAFY 7기 교육 진행 중...  
 
+<h3 align="center">⚡ TECH STACK⚡</h3>
+<p align="center">
+   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp  
+   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rl00822)](https://solved.ac/rl00822/)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKiJong)](https://github.com/LeeKiJong/github-readme-stats)
 
 

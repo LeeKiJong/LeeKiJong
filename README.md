@@ -1,11 +1,11 @@
 ### Hi there 👋
+Introduce Myself✨
+- 😄 안녕하세요. Server Developer를 꿈꾸고 있는 이기종입니다.
+- 🌱 SSAFY 7기 교육 진행 중...  
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rl00822)](https://solved.ac/rl00822/)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKiJong)](https://github.com/LeeKiJong/github-readme-stats)
 
-Introduce Myself✨
-- 😄 안녕하세요. Server Developer를 꿈꾸고 있는 이기종입니다.
-- 🌱 SSAFY 7기 교육 진행 중...
-- 
+
 <!--
 **LeeKiJong/LeeKiJong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

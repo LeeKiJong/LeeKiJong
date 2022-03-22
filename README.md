@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rl00822)](https://solved.ac/rl00822/) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rl00822)](https://github.com/rl00822/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rl00822)](https://solved.ac/rl00822/)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKiJong)](https://github.com/LeeKiJong/github-readme-stats)
 
 
 <!--

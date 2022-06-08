@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 😄 안녕하세요. Server Developer를 꿈꾸고 있는 이기종입니다.
-- 🌱 SSAFY 7기 교육 진행 중...  
+- 🌱 SSAFY 7기 교육 진행 중...   
 <h3 align="center">⚡TECH STACK⚡</h3>
 <p align="center">
    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 

@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there  👋
 - 😄 안녕하세요. Server Developer를 꿈꾸고 있는 이기종입니다.
 - 🌱 SSAFY 7기 교육 진행 중...   
 <h3 align="center">⚡TECH STACK⚡</h3>
